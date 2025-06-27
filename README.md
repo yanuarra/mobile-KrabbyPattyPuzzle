@@ -1,6 +1,6 @@
 # mobile-KrabbyPattyPuzzle
 
-This project is a 5-day challenge to create a puzzle game inspired by the classic Sandwich-stack game concept. The objective of the game is simple: stack the ingredients in the correct order to create the perfect Krabby Patty.
+This project is a 3-day challenge to create a puzzle game inspired by the classic Sandwich-stack game concept. The objective of the game is simple: stack the ingredients in the correct order to create the perfect Krabby Patty.
 
 # Game Overview
 In this game, the player must arrange three components in the correct order to form a complete sandwich:
